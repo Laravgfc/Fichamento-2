@@ -1,5 +1,5 @@
 #  Perspectivas em computação social
-Ponciano, Lesandro; Andrade, Nazareno. "Perspectivas em computação social".
+Ponciano, Lesandro; Andrade, Nazareno. "Perspectivas em computação social". Especial Sistemas Colaborativos.
 # 1. Fichamento do conteúdo
 O artigo apresentado nos trás alguns debates importantes no que se refere a computação social, visto que com o passar dos anos a computação deixou de ser algo restrito a trabalho e se difundiu na sociedade impulsionado pela internet. São trazidos debates sobre os tópicos de Engajamento, Credibilidade e Cultura. Se tratando de engajamento o aartigo nos faz refletir sobre como é a interação do usuário, visto que boa parte interaje apenas poucas vezes com o sistema e uma pequena parcela da sociedade é responsável pela maior parte das ações desenvolvidas em um sistema. Em termos de Credibilidade, se trata do quanto podemos confiar nas informações providas por determinadas fontes de acordo com sua reputação. Cultura é um outro fator debatido, visto que em um cenário tão amplo como as redes socias temos frequentemente contato com pessoas de diversas crenças e cultura, o que por sua vez consiste em um grande desafio, pois impacta demasiadamente na interação.
 # 2. Fichamento bibliográfico
